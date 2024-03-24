@@ -1,2 +1,2 @@
-# python_topic
+# python topics
 中职python题
